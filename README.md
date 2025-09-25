@@ -28,6 +28,8 @@ wollok run juego.juego --skipValidations --port 4200 -p RUTA_AL_PROYECTO
 
 ## Checkpoint 1 (se corrige de manera asincrónica): 13/10
 
+Para el 13/10 debe estar subido en el repo el nombre, descripción y controles de su juego (editen este archivo en la sección **Juego** al final) y el código de lo que tengan hasta el momento.
+
 Para esta entrega la idea es que esté definida la idea del juego a realizar, y que tengan al menos:
 - alguna forma en la que el jugador pueda interactuar (ya sea un personaje controlado, un menú, etc).
 - una forma de ganar o de perder, con el resultado de eso (pantalla de game over/reseteo del estado del juego/etc).
@@ -36,4 +38,10 @@ De esa entrega vamos a ayudarles a decidir que agregar para la siguiente entrega
 
 ## Entrega y corrección presencial: 27/10
 
-En esta entrega se evaluará el uso de objetos en el tp.
+En esta entrega se evaluará el uso de objetos en el tp. Debe haber presente al menos una persona del grupo ese día para la corrección, caso contrario se considera no entregado.
+
+# Juego: NOMBRE
+
+DESCRIPCION
+
+CONTROLES
