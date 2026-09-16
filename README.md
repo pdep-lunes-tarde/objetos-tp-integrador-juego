@@ -26,19 +26,21 @@ wollok run juego.juego --skipValidations --port 4200 -p RUTA_AL_PROYECTO
 
 # Entregas
 
-## Checkpoint 1 (se corrige de manera asincrónica): 13/10
+## Checkpoint 1: 05/10
 
-Para el 13/10 debe estar subido en el repo el nombre, descripción y controles de su juego (editen este archivo en la sección **Juego** al final) y el código de lo que tengan hasta el momento.
+Para el 05/10 debe estar subido en el repo el nombre, descripción y controles de su juego (editen este archivo en la sección **Juego** al final) y el código de lo que tengan hasta el momento.
 
-Para esta entrega la idea es que esté definida la idea del juego a realizar, y que tengan al menos:
-- alguna forma en la que el jugador pueda interactuar (ya sea un personaje controlado, un menú, etc).
-- una forma de ganar o de perder, con el resultado de eso (pantalla de game over/reseteo del estado del juego/etc).
+También, se deben proponer en que van a continuar trabajando para el siguiente checkpoint.
 
-De esa entrega vamos a ayudarles a decidir que agregar para la siguiente entrega.
+## Checkpoint 2: 19/10
 
-## Entrega y corrección presencial: 27/10
+Para el 19/10 debe estar subido arreglos que se hayan pedido en el primer checkpoint y nuevos cambios.
 
-En esta entrega se evaluará el uso de objetos en el tp. Debe haber presente al menos una persona del grupo ese día para la corrección, caso contrario se considera no entregado.
+## Entrega y corrección virtual sincrónica: 02/11
+
+Al igual que en los tps integradores anteriores, este día se dedica a corregir los trabajos prácticos.
+
+En esta entrega final se evaluará el uso de objetos en el tp.
 
 # Juego: NOMBRE
 
